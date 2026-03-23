@@ -1,5 +1,9 @@
 # Practice 2 HTML
 
+### Скріншоти:
+![Alt text](https://github.com/MoonSpruc-Linux/pr3-css/blob/main/1.jpg)
+![Alt text](https://github.com/MoonSpruc-Linux/pr3-css/blob/main/2.jpg)
+
 ### Що стилізовано:
 
 - **Header** та **footer** (фон, кольори, вирівнювання)
